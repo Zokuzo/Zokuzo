@@ -16,7 +16,7 @@ Problem before tool. Production, not demo. Measure before tuning.
 
 - **[loadout](https://github.com/Zokuzo/loadout)**: themes for Claude Code. A mascot per model, subagents on stage, usage meters, a working line.
 - **[christopher-nolan](https://github.com/Zokuzo/christopher-nolan)**: your coding agent reads the repo, asks you one question at a time, then renders the video with Remotion.
-- **[eternal](https://zokuzo.github.io/eternal/)**: AI-written code, replayed as lessons in a 2D pixel game.
+- **[eternal](https://zokuzo.github.io/eternal/)**: AI-written code, replayed as lessons in a 2D pixel game. (work in progress tbh)
 
 Before that: ML at Sophia Genetics, predicting RAM per bioinformatics pipeline task. The old system over-allocated ~1200 TB in 3 months.
 
